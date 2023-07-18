@@ -21,8 +21,8 @@ dependencies:
     specifier: 13.4.7
     version: 13.4.7(eslint@8.43.0)(typescript@5.1.5)
   mongoose:
-    specifier: ^7.3.2
-    version: 7.3.2
+    specifier: ^7.3.3
+    version: 7.3.3
   next:
     specifier: 13.4.7
     version: 13.4.7(react-dom@18.2.0)(react@18.2.0)(sass@1.63.6)
@@ -2261,8 +2261,8 @@ packages:
       saslprep: 1.0.3
     dev: false
 
-  /mongoose@7.3.2:
-    resolution: {integrity: sha512-Z86m5ASwYYFyT++wPQTtuTl5Jh052w6G1IM8LxPu/6iuqxQo6nUOaEoGZfMy0ovw3Dyw3415Jue3pYXkRqPkfA==}
+  /mongoose@7.3.3:
+    resolution: {integrity: sha512-g4NrRGIUEUYLeScaSChQR8i4Dlk9lR0UJzkK3r6TPJyqJ6ZWdRVP3oXfOG9Yn+hNeKcCJKfVEHo+jsU1rh3YTA==}
     engines: {node: '>=14.20.1'}
     dependencies:
       bson: 5.4.0
